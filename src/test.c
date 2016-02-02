@@ -8,5 +8,5 @@ master()
 }
 bob()
 {
-
+	bob like here
 }
